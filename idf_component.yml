@@ -1,0 +1,8 @@
+dependencies:
+  idf:
+    version: '>=5.0.0'
+description: Theora video codec (ESP-IDF component)
+license: BSD-3-Clause license
+repository: https://github.com/xiph/theora
+url: https://www.xiph.org/theora/
+version: 1.1.1
